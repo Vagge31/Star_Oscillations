@@ -9,7 +9,7 @@ The tool directly plots the numerical eigenfunctions $\xi_r(r)$ and $\xi_h(r)$ a
 The simulation demonstrates small adiabatic oscillations of a Newtonian star modeled with an $n=3$ Lane-Emden polytropic background[cite: 3]. The oscillation modes are classified by their restoring forces and spatial structure:
 
 - **Radial Mode ($l=0$):**
-  - **Fundamental Radial Mode ($f, l=0$):** Homologous volume breathing (\omega^2 \approx 9.2638$) without radial nodes.
+  - **Fundamental Radial Mode ($f, l=0$):** Homologous volume breathing ($\omega^2 \approx 9.2638$) without radial nodes.
 - **Non-Radial Modes ($l=2, m=0$):**
   - **Gravity Modes ($g_1, g_2$):** Buoyancy-driven oscillations dominated in the deep core.
   - **Fundamental Surface Mode ($f, l=2$):** Surface gravity wave resulting in quadrupolar spheroidal deformation ($\omega^2 \approx 9.5157$).
