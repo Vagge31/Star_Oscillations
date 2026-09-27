@@ -32,6 +32,6 @@ Run the visualization directly in your browser:
 Simply clone the repository and open `index.html` in any modern web browser[cite: 3]:
 
 ```bash
-git clone [https://github.com/](https://github.com/)<username>/star-oscillations.git
+git clone [https://github.com/](https://github.com/Vagge31/Star_Oscillations.git
 cd star-oscillations
 # Open index.html directly or host locally
