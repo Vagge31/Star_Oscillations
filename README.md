@@ -25,7 +25,7 @@ The simulation demonstrates small adiabatic oscillations of a Newtonian star mod
 ## Live Demo
 
 Run the visualization directly in your browser:  
-👉 **[https://<username>.github.io/star-oscillations/](https://<username>.github.io/star-oscillations/)**
+👉 **[https://Vagge31.github.io/star-oscillations/](https://Vagge31.github.io/star-oscillations/)**
 
 ## Usage
 
